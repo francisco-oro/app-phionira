@@ -30,7 +30,7 @@ export const MotionCard = (props: Props) => {
                     alt="lecture" 
                     width={360}
                     height={130}
-                    className="fill-current bg-white rounded-lg border"
+                    className="fill-current rounded-lg border"
                     /> 
                     <div className="space-y-2">
                     <h3 className="font-bold"> {props.title} </h3>
@@ -55,7 +55,7 @@ export const MotionCard = (props: Props) => {
                             alt="lecture" 
                             width={360}
                             height={130}
-                            className="fill-current bg-white rounded-lg border"
+                            className="fill-current rounded-lg border"
                             />                
                             </motion.div>
                                 }
